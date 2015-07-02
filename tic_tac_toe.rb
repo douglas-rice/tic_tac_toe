@@ -23,9 +23,8 @@ require 'pry'
 #   it is a tie
 
 # NOTES:
-# At each stage (each line of pseudocode), Chris automatically 
-# created a new method.
-# Conclusion: each line of pseudocode is a new method!
+# At each stage (each line of pseudocode), Chris created a new method.
+# So: Each step of pseudocode is a new method.
 
 # We need a way to keep track of the squares, to keep track of the board.
 # How about a hash, where the keys are the position numbers
